@@ -56,6 +56,6 @@
 - [x] Add checkpoints
 - [x] Verify dead neuron problem or zero gradient
 - [x] Remove t2spir from dataset
-- [ ] Weight accuracy according to general tendencies and not batch-wise 
-- [ ] Verify that train and val sets are balanced case-wise (display one pic each and verify particular cases)
+- [x] Weight accuracy according to general tendencies and not batch-wise 
+- [ ] Verify that train and val sets are balanced case-wise (randomize patient selection and cross-patient subsets)
 
